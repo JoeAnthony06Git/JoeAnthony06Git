@@ -19,8 +19,9 @@ Me motiva descubrir el potencial de la información y transformarla en conocimie
 ### Lenguajes
 - 🗃️ SQL  
 - 🐍 Python
-- 🟨 JavaScript
 - </> HTML
+- 🟦 CSS
+- 🟨 JavaScript
 
 ### Sistemas de Gestión de Bases de Datos
   - MySQL  
