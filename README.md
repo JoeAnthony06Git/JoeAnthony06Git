@@ -58,7 +58,7 @@ Seguir formándome como profesional integral en tecnología, contribuyendo con s
 
 Si deseas colaborar o intercambiar ideas, ¡no dudes en contactarme!  
 📫 **olivaresanthony67@gmail.com**  
-🔗 *www.linkedin.com/in/joe-anthony-olivares-armijo-6aa7502a7*
+🔗 *www.linkedin.com/in/joe-anthony-olivares-armijo*
 
 ---
 
